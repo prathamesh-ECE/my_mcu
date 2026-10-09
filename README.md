@@ -5,7 +5,6 @@ Hands-on CPU and microcontroller designs in Verilog, built and tested on the **S
 | Project | Description | Status |
 |---|---|---|
 | [`4bit-cpu`](4bit-cpu/) | 4-bit CPU with PC, program memory, decoder, control unit, register file and ALU | Working on hardware |
-| [`8bit-mcu`](8bit-mcu/) | 8-bit ALU + RAM + UART; program memory loaded over UART | Working on hardware |
 
 ## Roadmap
 
